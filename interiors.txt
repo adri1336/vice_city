@@ -1,0 +1,29 @@
+6306.95, 933.635, 1048.81, 0 //Scarfaceinterior
+6201.99, 587.149, 999.727, 180 //Hardware Store Washington Beach
+6228.71, -227.186, 999.922, 75 //Ocean View Hotel
+6490.03, 973.854, 998.531, 45 //Malibu Club Door 1
+6487.55, 971.518, 998.531, 45 //Malibu Club Door 2
+5940.5, -429.63, 997.087, 90 //Ammunation
+5318.3, 2251.28, 997.179, 90 //Ammunation Downtown
+5621.46, 494.428, 996.133, 180 //Mansion Principal Door
+5663.56, 476.213, 1012.12, 270 //Mansion Terrace Door
+5672.6, 471.018, 988.161, 270 //Mansion Pool Door
+5101.99, 708.993, 994.023, 90 //El Banco Corrupto Grande
+6448.64, 2053.69, 1213.64, 0 //North Point Mall Door 1
+6379.67, 2052.79, 1213.65, 0 //North Point Mall Door 2
+6470.98, 2173.61, 1212.78, 90 //North Point Mall Door 3
+6357.09, 2174.61, 1213.48, 270 //North Point Mall Door 4
+6448.21, 2299.29, 1213.48, 180 //North Point Mall Door 5
+6379.62, 2299.88, 1213.61, 180 //North Point Mall Door 6
+6096.09, -404.722, 998.031, 30 //Pole Position Club
+6367.55, 2128.26, 997.609, 90 //Hardware Store Mall
+5033.35, 354.851, 994.56, 90 //Hardware Store Little Havana
+6121.11, 215.509, 1000, 250 //Ken Rosenburg\'s office
+5402.77, 1700.65, 995.992, 180 //Greasy Chopper (Biker Bar)
+6396.04, 576.625, 996.383, 135 //Washington Beach Police HQ
+5037.27, 1197.05, 997.695, 0 //Auntie Poulet\'s
+4935.41, 767.392, 998.069, 90 //Print Works
+6407.9, 2082.15, 994.421, 270 //GASH Door 1
+6407.75, 2082.1, 1000.73, 270 //GASH Door 2
+6464.65, 2058.89, 997.458, 220 //Tarbrush Café
+4830.08, 441.309, 1001.29, 180 //Café Robina
